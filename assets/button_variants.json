@@ -1,0 +1,62 @@
+[
+  {
+    "name": "primary",
+    "backgroundColor": "#1976D2",
+    "foregroundColor": "#FFFFFF",
+    "borderColor": "#1976D2",
+    "borderWidth": 2,
+    "borderRadius": 8,
+    "fontSize": 16,
+    "fontWeight": "bold",
+    "icon": "thumb_up",
+    "height": 48
+  },
+  {
+    "name": "secondary",
+    "backgroundColor": "#FFFFFF",
+    "foregroundColor": "#1976D2",
+    "borderColor": "#1976D2",
+    "borderWidth": 2,
+    "borderRadius": 8,
+    "fontSize": 16,
+    "fontWeight": "w600",
+    "icon": "arrow_forward",
+    "iconPosition": "right",
+    "height": 48
+  },
+  {
+    "name": "outline",
+    "backgroundColor": "transparent",
+    "foregroundColor": "#1976D2",
+    "borderColor": "#1976D2",
+    "borderWidth": 2,
+    "borderRadius": 8,
+    "fontSize": 16,
+    "fontWeight": "w600",
+    "icon": "star_outline",
+    "iconPosition": "left",
+    "height": 48,
+    "disabledBackgroundColor": "transparent",
+    "disabledForegroundColor": "transparent",
+    "disabledBorderColor": "#BBDEFB"
+  },
+  {
+    "name": "gradient",
+    "backgroundColor": "#1976D2",
+    "foregroundColor": "#FFFFFF",
+    "borderColor": "#1976D2",
+    "borderWidth": 0,
+    "borderRadius": 24,
+    "fontSize": 16,
+    "fontWeight": "bold",
+    "icon": "bolt",
+    "iconPosition": "left",
+    "height": 48,
+    "gradientColors": ["#1976D2", "#64B5F6"],
+    "gradientDirection": "leftToRight",
+    "disabledBackgroundColor": "#E3F2FD",
+    "disabledForegroundColor": "#B0BEC5",
+    "disabledBorderColor": "#E3F2FD",
+    "disabledGradientColors": ["#E3F2FD", "#F5F5F5"]
+  }
+]
